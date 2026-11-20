@@ -1,29 +1,25 @@
-# Hi, I’m Naomi
+# Hi, I’m Naomi Donley
 
-### Project Management · Energy Operations · Process Improvement · Automation
+**Technical Project Coordination · Proposal & Tender Management · Energy & Electrical Equipment**
 
-I connect people, project requirements, and practical technology to make work clearer and more consistent. My experience spans energy proposals, electrical equipment projects, customer coordination, and workflow improvement.
+I coordinate technical projects and commercial proposals across customers, engineering, manufacturing, and vendors. I build practical tools to keep requirements, approvals, and commitments visible from kickoff through delivery.
 
-## What I bring
+## Project delivery and proposal operations
 
-- **Project delivery:** vendor and subcontractor coordination, procurement support, delivery planning, and project follow-through.
-- **Document control:** drawings, specifications, revisions, RFIs, submittals, and approval workflows using Procore.
-- **Operational improvement:** translating recurring bottlenecks into structured processes, clear documentation, and useful tools.
-- **Business-focused automation:** proposal workflows, spreadsheet-driven processes, and interfaces that reduce repetitive work.
-- **Team adoption:** customer onboarding materials, cross-functional communication, and support for new workflows.
+- **Electrical equipment delivery:** Manage 20+ concurrent projects at EPEC Solutions, coordinating customer kickoffs, procurement and production milestones, equipment inspections, shipments, and closeout.
+- **Technical documentation:** Review electrical single-line diagrams and specifications. Coordinate RFIs, submittals, drawing revisions, and approvals in Procore. Track change orders and verify billing milestones against agreed proposal terms.
+- **Energy proposals and automation:** Led kickoff calls and coordinated technical inputs and pricing for EMS and full-product proposals at FlexGen. Built an Excel/VBA workflow that cut EMS proposal turnaround time by more than 90%.
 
-## How I approach a problem
+## Selected work
 
-Understand the workflow → clarify requirements → simplify the handoff → build a practical solution → refine with users.
+- [Strategic Operations Portfolio](https://naomidonley.vercel.app/) — project delivery, proposal automation, and operations case studies.
+- [Energy Proposal Intake Prototype](https://github.com/TaNeekwa/Flexgen-Proposal-Generator) — a Python and Streamlit prototype for organizing energy-storage proposal requirements.
 
-I use GitHub to document and develop tools alongside my project management and operations work. My focus is the business problem, the people using the solution, and the quality of the result.
+## Credentials
 
-## Professional focus
+- Procore Certification: Project Manager (Project Management)
+- Procore Certification: Project Manager (Core Tools)
 
-Project management and coordination · Energy and electrical infrastructure · Business operations · Process improvement · Workflow automation
+Based in Durham, North Carolina. Interested in technical project coordination, proposal and tender roles, and operations opportunities in energy and construction.
 
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/taneekwadonley/)
-
-Employer-owned systems, customer information, and confidential implementation details are excluded from this profile.
+[LinkedIn](https://www.linkedin.com/in/naomidonley/) · [Portfolio](https://naomidonley.vercel.app/)
