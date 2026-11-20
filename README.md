@@ -13,6 +13,7 @@ I coordinate technical projects and commercial proposals across customers, engin
 ## Selected work
 
 - [Strategic Operations Portfolio](https://naomidonley.vercel.app/) — project delivery, proposal automation, and operations case studies.
+- [EPEC Client Portal & Project Tracking](https://naomidonley.vercel.app/) — Designed a client portal and built a project tracker to centralize customer communications and submittals for engineered electrical equipment projects. Created onboarding materials and trained fellow project managers for a leadership-approved pilot.
 - [Energy Proposal Intake Prototype](https://github.com/NaomiFD-ux/Flexgen-Proposal-Generator) — a Python and Streamlit prototype for organizing energy-storage proposal requirements.
 - [LuxeLife Planner](https://github.com/NaomiFD-ux/luxelife-planner) — a React and Firebase planning dashboard with calendars, habits, budgets, and a job tracker.
 - [Uno Party Pink Glam](https://github.com/NaomiFD-ux/uno-party-pink-glam) — a browser-based game with bot practice, shared rooms, and real-time multiplayer. [Play the demo](https://uno-party-pink-glam.vercel.app/)
