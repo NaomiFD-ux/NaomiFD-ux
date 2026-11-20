@@ -13,7 +13,7 @@ I coordinate technical projects and commercial proposals across customers, engin
 ## Selected work
 
 - [Strategic Operations Portfolio](https://naomidonley.vercel.app/) — project delivery, proposal automation, and operations case studies.
-- [Energy Proposal Intake Prototype](https://github.com/TaNeekwa/Flexgen-Proposal-Generator) — a Python and Streamlit prototype for organizing energy-storage proposal requirements.
+- [Energy Proposal Intake Prototype](https://github.com/NaomiFD-ux/Flexgen-Proposal-Generator) — a Python and Streamlit prototype for organizing energy-storage proposal requirements.
 
 ## Credentials
 
